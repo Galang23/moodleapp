@@ -1,14 +1,14 @@
 {
-  "name": "moodlemobile",
+  "name": "pembelajarancaksono",
   "version": "3.9.5",
-  "description": "The official app for Moodle.",
+  "description": "Aplikasi Pembelajaran Cak Sono",
   "author": {
-    "name": "Moodle Pty Ltd.",
-    "email": "mobile@moodle.com"
+    "name": "Cak Sono.",
+    "email": "caksono@caksono.com"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/moodlehq/moodlemobile2.git"
+    "url": "https://github.com/Galang23/moodleapp.git"
   },
   "license": "Apache-2.0",
   "licenses": [
